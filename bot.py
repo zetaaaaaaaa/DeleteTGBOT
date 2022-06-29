@@ -127,7 +127,7 @@ async def messages_control(c: Client, m: Message):
 								pass
 							
 							if len(txtlines) == delurls:
-								await msgcheck.edit('TXT eliminado de la nube exitosamente✅\nAutor👨‍💻: @anonedev')
+								await msgcheck.edit('TXT eliminado de la nube exitosamente✅\nAutor👨‍💻: @Zeta30')
 								break
 					else:
 						await msgcheck.edit("Credenciales incorrectas❌")
